@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Cloud Security
 - 💞️ I’m looking to collaborate on AppSec, DevSecOps, SecOps, CyberSecurity, Cloud Sec
 - 📫 you can Reach me on
+- LinkedIn - www.linkedin.com/in/hereisAnshul
 - Twitter- https://twitter.com/hereisAnshul
--  Instagram - https://www.instagram.com/anshulsahu_/ 
+- Instagram - https://www.instagram.com/anshulsahu_/ 
 
 <!---
 anshulsahu1990/anshulsahu1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
