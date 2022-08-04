@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshul Sahu, SecOps Engineer @ o9Solutions
-- 👀 I’m interested in AppSec, DevSecOps, SecOps, CyberSecurity
+- 👀 I’m works and talks about AppSec, DevSecOps, SecOps, CyberSecurity
 - 🌱 I’m currently learning Cloud Security
 - 💞️ I’m looking to collaborate on AppSec, DevSecOps, SecOps, CyberSecurity, Cloud Sec
 - 📫 you can Reach me on
